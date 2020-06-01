@@ -349,7 +349,27 @@ const styles = StyleSheet.create({
         color:'#474646',
         padding:10,
         paddingLeft:60
-    }
+    },
+    Colores:{
+        backgroundColor:"#555483",
+        backgroundColor:"#66ff66",
+        backgroundColor:"#13ff13",
+        backgroundColor:"#feb236",
+        backgroundColor:"#d64161",
+        backgroundColor:"#ff7b25",
+        backgroundColor:"#555483",
+        backgroundColor:"#555483",
+        backgroundColor:"#555483",
+        
+  
+        
+    },
 })
 
 export default styles;
+
+/**
+ * div {
+    background: linear-gradient(to bottom, #000066 20%, #009933 100%);
+}
+ */
