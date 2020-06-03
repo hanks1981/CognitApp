@@ -17,7 +17,6 @@ const getItem = async (id, num) => {
   }
 }
 
-
 it('renders correctly', async () => {
   // const list = new listaAsignaturas();
   const res1 = await llenarAsignatura(1);
